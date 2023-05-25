@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: GUYOT Athur Group R 
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: [quotes-Séverin-R](https://github.com/Proventus92/quotes-ETIEVANT-R.git)
+- `contributor-2`: [quotes-Bily-R](https://github.com/bilysasorith/quotes-SASORITH-R.git)
+- `contributor-3`: [quotes-Arthur-R](https://github.com/MusicMan1900/quotes-GUYOT-R.git)
