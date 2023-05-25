@@ -28,3 +28,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+elif choice == ... # gestion de display_count()
+    count = int(input("Enter the number of quotes to display: "))
+    display_quotes(quotes, count)
